@@ -1,4 +1,4 @@
-# Introduction-to-Optiperformer
+## Exp.No 2: Introduction-to-Optiperformer
 
 ### Aim
 To download and install OptiPerformer software and run a sample fiber optic communication system simulation.
@@ -27,7 +27,8 @@ The system includes:
 
 ### TABULATION 
 
-<img width="1080" height="860" alt="image" src="https://github.com/user-attachments/assets/1be06029-bfc2-4cba-a17d-183c656e4a64" />
+<img width="1567" height="1600" alt="WhatsApp Image 2026-11-26 at 8 43 12 AM" src="https://github.com/user-attachments/assets/2ad66a12-a603-416d-9037-32934ba8ddf9" />
+
 
 
 ### OUTPUT
